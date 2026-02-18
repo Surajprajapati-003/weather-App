@@ -32,7 +32,7 @@
 
 <ol>
   <li>🧬 Clone the repository:
-    <pre><code>https://github.com/deepak-05dktopG/Weather-App.git</code></pre>
+    <pre><code>https://github.com/Surajprajapati-003/weather-App</code></pre>
   </li>
   <li>🛠️ Install dependencies:
     <pre><code>npm install</code></pre>
@@ -51,8 +51,8 @@
 <h2>📬 Contact</h2>
 
 <ul>
-  <li>✉️ Email: <a href="mailto:kumardeepak59422@gmail.com">kumardeepak59422@gmail.com</a></li>
-  <li>👨‍💼 LinkedIn: <a href="https://www.linkedin.com/in/deepak-05dktopg/" target="_blank">https://www.linkedin.com/in/deepak-05dktopg/</a></li>
+  <li>✉️ Email: <a href="mailto:surajprajapati8851@gmail.com">surajprajapati8851@gmail.com</a></li>
+  <li>👨‍💼 LinkedIn: <a href="https://www.linkedin.com/in/suraj-prajapati01/" target="_blank">https://www.linkedin.com/in/suraj-prajapati01/</a></li>
 </ul>
 
 <hr/>
